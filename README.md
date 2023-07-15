@@ -15,11 +15,6 @@ If you're interested in partnership opportunities or having me on your project, 
 </div>
 <br />
 
-- 🔭 I’m currently working on e-commerce
-- 🌱 I’m currently learning microservices architecture
-- 👯 I'm looking to collaborate on web application
-- 🤔 I’m looking for help with spring security, and mastering microservice architecture with Spring Boot...
-- 💬 Ask me about RESTful API with Laravel, RESTful API with Spring
 
 <div align="center">
 

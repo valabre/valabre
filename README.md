@@ -20,20 +20,12 @@ If you're interested in partnership opportunities or having me on your project, 
 
 ## My skills and knowledges🚀
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-squaree&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-squaree&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-squaree&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-squaree&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-squaree&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat-squaree&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat-squaree)
 ![](https://img.shields.io/badge/Angular-20232A?style=flat-squaree&logo=Angular)
-![](https://img.shields.io/badge/jQuery-0769AD?style=flat-squaree&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Java-blue?style=flat-squaree&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-green?style=flat-squaree&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/Spring-green?style=flat-squaree&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/php-1572B6?style=flat-squaree&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Laravel-red?style=flat-squaree&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/git-red?style=flat-squaree&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/docker-blue?style=flat-squaree&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/kanban-gray?style=flat-squaree&logo=kanban&logoColor=white)
